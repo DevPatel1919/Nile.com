@@ -1,8 +1,3 @@
-/* Dev Patel
-CNT 4714 - Fall 2024
-Project 1 - An Event-driven Enterprise Simulation
-9/3/24
-*/ 
 
 // All useful imports
 import java.awt.*;
